@@ -57,7 +57,7 @@ public class LoginActivity extends AppCompatActivity {
                         startActivity(intent);
                         finish();
                     } else {
-                        Snackbar.make(mainContainer, "Cuenta no existe", Snackbar.LENGTH_LONG)
+                        Snackbar.make(mainContainer, "Cuenta inexistente", Snackbar.LENGTH_LONG)
                                 .setAction("Crear Cuenta", view -> {
                                     Intent intent = new Intent(this, SignUpActivity.class);
                                     startActivity(intent);
