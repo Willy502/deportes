@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178267162082",
+    "project_id": "deportes-app-edutec",
+    "storage_bucket": "deportes-app-edutec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178267162082:android:57cae6e3b29405041165bb",
+        "android_client_info": {
+          "package_name": "com.edutec.deportes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178267162082-h402j8onj2jpibg96ek9gq2qdjlm1spi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDth5kiExCUn5PsEaMMoeIGuyS6dmFkeis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178267162082-h402j8onj2jpibg96ek9gq2qdjlm1spi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
